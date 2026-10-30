@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kasen-rakusho",
  "yomi": "かせんらくしょ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（歌人評）",
+  "era": "平安末期",
+  "author": "未詳",
+  "desc": "同時代の歌人たちの歌風をさまざまな比喩で評し、それぞれの秀歌を挙げた歌人評。大輔などの評と歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -117,6 +122,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
